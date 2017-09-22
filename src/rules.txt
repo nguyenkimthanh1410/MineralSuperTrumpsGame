@@ -1,0 +1,19 @@
+A.	RULES FOR MINERAL SUPER TRUMP CARD
+Players takes turn to play in the circular. In its turn, it could pass or pick any card higher value card than the bid card given to it
+1.	Note 1: Game starts with pick a Player as Dealer randomly. Let the Dealer to deal the pack of card
+2.	Note 2: Choose a player (Player A) next to the Dealer,
+		and request this Player (Player A) to pick any Mineral card, and its specific category (one of 6 categories)
+3.	Note 3: Choose next player of Player A, let call Player B, ask the Player B whether it wants pass or continue its turn with a higher value card
+4.	Note 4: If Player B, pass its turn, then it has to pick up one card from the pack of card, and not allowed to take another turn until it's brought back.
+
+The pass players will come back to game when one of these conditions are met:
+-	A Trump Card is thrown
+-	The last player exists, others are passed
+-	A winner has been found. A Player becomes a winner by 2 either two conditions: One, it has removed all cards it has. Two, A special case, the player throw both a Trump Card of Specific Gravity and a Mineral Card of Magnetite
+
+5.	Note 5: If Player choose a higher value with a Mineral Card. Choose a player next to that player, and request a higher value card
+6.	Note 6: If Player choose a higher value with a Trump Card. If it still has Mineral cards, it is allowed to remove one Mineral card. After that, a new round start, by next player will pick a Mineral card
+7.	Note 7: If Player choose a higher value with a Trump Card of Specific Gravity and the Magnetite is removed subsequently, the Player will become a winner at once no matter how many cards remaining it has
+8.	Note 8: The game keeps going and it only finishes when only one player remains, other players already won.
+
+

@@ -1,0 +1,3 @@
+- Purpose: To build a card game Mineral Super Trumps to help players learn about the properties and uses of common rock-forming minerals. There are 3 to 5 players in the game.
+
+- Language: Java swing
